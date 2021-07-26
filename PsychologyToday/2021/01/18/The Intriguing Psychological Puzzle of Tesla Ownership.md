@@ -17,3 +17,10 @@ In the 2020 Initial Quality Study conducted by the marketing research company J.
 ### Tesla Customer Satisfaction
 
 The 2020 J.D. Power Automotive Performance, Execution and Layout(APEAL) Study measured owner's satisfaction based on their "experiences with design, performance, safety, usability, comfort, perceived quality, and other factors." In the study, Tesla received the highest score of 896. To give context, Porsche had the next highest score of 881.
+
+### The Psychology of Tesla Owenership
+
+Two studies from the same marketing research company, but with completely different results. Tesla customers own a(relatively) inferior product yet are very satisfied and loyal. How is this possible? How can a brand be the worst performer with respect to quality and yet be the most belobved by its customers? We can speculate and provide two explanations that, in reality, boil down to one underlying reason.
+
+- **Explanation 1:** Consumers buy Tesla vehicles for reasons other than reliability or the functional aspects that they use to judge other vehicles(horsepower, cost per mile of driving, etc.).
+- **Explanation 2:** Tesla owenrs are far more forgiving of problems with their vehicles than owners of other vehicle brands.
