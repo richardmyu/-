@@ -24,3 +24,5 @@ Two studies from the same marketing research company, but with completely differ
 
 - **Explanation 1:** Consumers buy Tesla vehicles for reasons other than reliability or the functional aspects that they use to judge other vehicles(horsepower, cost per mile of driving, etc.).
 - **Explanation 2:** Tesla owenrs are far more forgiving of problems with their vehicles than owners of other vehicle brands.
+
+Both explanations boil down to the fact that even though Tesla makes relatively mundane products(automobiles) that are judged mainly for their functional characteristics, its customers are using an entirely different decision calculus to evaluate Tesla vehicles(and the brand).
