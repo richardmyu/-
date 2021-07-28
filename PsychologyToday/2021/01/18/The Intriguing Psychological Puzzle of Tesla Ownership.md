@@ -26,3 +26,15 @@ Two studies from the same marketing research company, but with completely differ
 - **Explanation 2:** Tesla owenrs are far more forgiving of problems with their vehicles than owners of other vehicle brands.
 
 Both explanations boil down to the fact that even though Tesla makes relatively mundane products(automobiles) that are judged mainly for their functional characteristics, its customers are using an entirely different decision calculus to evaluate Tesla vehicles(and the brand).
+
+### Tesla Investors Feel the Same Way
+
+We only have to look to the stock market for evidence that Tesla is seen differently than other automobile brands. Just like the disconnect between the quality and customer satisfaction of Tesla vehicles, Tesla's stock price shows a remarkable break from established business valuation theories. On average, other automobile companies' stocks are priced at around 20 times their annual earnings (for example, GM's stock is 23.1 times, while Toyota's is 16.1 times its annual earnings.) By comparision, Tesla's stock is 1,635 times its yearly earnings as i write this. Tesla's investors, like its customers, see the company through rose-colored glasses in a way that defeats economic theory.
+
+### Tesla Owners Focus on the Brand's Future Vision, Looking Past the Present
+
+These dissociations from conventional theories arise from the glorious vision Tesla's customers and invvestors share of the company's future. Essentially, their vision is divorced from the present reality.
+
+Tesla makes cars with the latest technologies, such as electric power, self-drivving technology, over-the-air software updates, and an autopilot that are years ahead of other vehicles. What's more, it has a charismatic, eccentric founder in Elon Musk, who's considered to be a visionary in the vein of Steve Jobs. Owning a Tesla vehicle(or stock, for that matter) is meaningful in a way that owning other products and services are not because it gives customers a rare opportunity to link their self-identity with many positive and rarely-to-be-found qualities.
+
+It is for delivering a glorious vision of the future that customers are willing to discount and forgive Tesla's current problems and inconveniences love the brand. This behavior is an anomaly that other brands cannot replicate. For consumer psychologists, the reactions of owners and investors to the Tesla brand is the exception that proves the rule.
