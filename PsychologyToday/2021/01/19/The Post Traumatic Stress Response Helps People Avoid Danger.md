@@ -24,4 +24,22 @@ In line with the work of world-renowned psychiatrist Frank Ochberg and anesthesi
 
 The problem comes in when people leave that war zone and come home. "When people come home to their day to day life they have a mismatch with their environment. They get flooded with adrenaline continually and are primed to respond to perceived threats that are not always real threats. Sometimes they are, but usually they're not. They might understand this logically, but their body has changed at a cellular level," says Springer. "I call this "chronic threat response." But of course, this is not a recognized diafnosis."
 
+### PTSD is an adaptive response
 
+Air Force veteran JJ Snow is an advisor to Thriving Warriot, an online safe space for veteran. She wants to take the change in terms one step further. Snow acknowledges that calling PTSD an invisible would helps because it helps people understand that something real is happening to them. She says when veterans get home they want to know why they feel broken, why life is not making sense. "Having somebody acknowledge that you have an invisible wound helps. You have something that has helped you to adapt to a very extreme environment, and that's okay," says Snow.
+
+But she would rather we called PTS an adaptation rather than a injury. Snow wants her fellow veterans to understand that "There is nothing wrong with you. It's an adaptation to something extreme."
+
+"You're in this battlefield environment and you adopt a very different mindset. So PTSD is part of your ability to react quickly to something that sounds strange," Snow explains. "It's okay because those things that happened to you over there helped you to survive. Then you brought them back with you, but it doesn't mean that you're broken. It doesn't mean that it is going to limit you. In fact it's an enhancement because it makes you more aware of your surroundings. It's made you more responsive to little things that other people may not pick up on."
+
+Snow syas one of the challenges is explaing PTS to people who've never dealt with it. She advises veterans to say, "Hey this is why i do this. It might seem weird to you but here's where it came from." When people start to understand, they tend to respond, "Oh wow. I've never been in a situation like that or i've never had to deal with that. That totally makes sense."
+
+Snow emphasizes the need to have a better transition for veterans returning to normal life. She points to the Israeli military, which she feels has an attitude of thriving and helps veterans identify the skills they learned in combat and make use of them.
+
+### Healing PTSD
+
+Still, even if the post-traumatic stress response starts for a good reason and helps warriors, it still causes all kinds of problems for people when it continues in civilian life. The issue is that the stress response can get stuck in the on position when it needs to turn off.
+
+Springer emphasizes that PTSI is an injury that can be healed. Her role as a psychologist allows her to learn a lot that people share with nobody else. "Many of the most successful people in our society are actually people who have been impacted by trauma and have become stronger through walking through a valley in a way that has brought post-traumatic growth. With the right insights and the right suport people will walk that valley and come out stronger than they've ever been before," she says.
+
+Treatment for post-traumatic stress is a topic that was covered recently in Psychology Today. But the important thing is to remember hope. In Springer's experience, "Time and time again, when we call to people's strength and we support them in the right ways, they are capable of achiveing things we never would have thought possible."
