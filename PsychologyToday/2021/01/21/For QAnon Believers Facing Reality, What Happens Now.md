@@ -31,3 +31,19 @@ Last summer, the New York Times series Rabbit Hole featured the personal account
 It's debatable whether QAnon is best understood as a cult or a religion, as some have claimed, but research on cults does tell us something about why true believers leave such movements. A 2017 study found that abondoning cult membership is predicted by loss of faith in the core beliefs of the group, social interventions, and contradictions by its leader.
 
 Now that President Biden had been inaugurated, Q hasn't posted online since early December, and Ron Watkins (a QAnon supporter and former administrator of 8kun, the online platform where Q posts) has urged QAnons to "go back to our lives," there's evidence that a large number of followers are questioning their beliefs and may fianlly decide to abondon the cause. A spate of articles published this week have quoted online chatter by QAnon adherents as follows:
+
+> "I'm losing my everloving mind right now. Is this really happening? Was this part of the plan?"
+> "If nothing happens i will no longer believe in anything."
+> "Anyone else feeling beyond let down?"
+> "It's over and nothing makes sense...absolutely nothing."
+> "Was Q just one big lie and psyop that i foolishly followed and believed for over 3 years?"
+> "Been played like fools."
+> "He sold us out."
+> "What a fraud."
+> "How could we all believe this for so long? Are we all idiots?"
+
+Is this the begining of the end for QAnon, then? Have QAnon followers finally woken up to the fact that they've fallen victim to a hoax? It hardly seems appropriate for a blog post about false prophesies to make a firm prediction, but the safe bet is that soem QAnon believers will fold, some will stand, and some will double down. The theory of cognitive dissonance predicts that those with the most money in the pot-the true believers who have invested the most time and energy into QAnon at the expense of jobs and relationships-will be most likely to pivot in a way that preserves or fuels their faith. And make no mistake, those who have been profiting from QAnon-based on online hits, celebrity, or hocking QAnon-related paraphernalia-will certainly work hard to keep their cash cow alive.
+
+It's also a good bet that the movement will fracture and mutate in some form, just as religions and political movements inevitably do over time. Clearly, QAnon can exist without Trump as its savior. Some of those doubling down are already claiming that Biden's victory and inauguration si somehow all part of the plan. And while QAnon is a homegrown conspiracy theory movement, it has already traveled far beyond the U.S. and transformed itself such that in some parts of the world, it has little to do with American politics.
+
+Still, while many experts are predicting a long life for QAnon for years to come, an interesting side story in the Atlantic tells of a gambler who ahs made "a lot of money" over the past few years betting against Q's prediciton. For countless Americans, betting against QAnon might not only be financially profitable-cutting thier losses and walking away could pay other substantial dividends, like the chance to reconnect with friends, family, and rality and to work on getting their lives back.
