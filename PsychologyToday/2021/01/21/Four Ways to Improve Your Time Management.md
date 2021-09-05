@@ -10,3 +10,30 @@ There are time management "hacks" galore. But i'm not interested in a specific s
 
 Before outlining the four practices, it's important to first understand the end goal of time management. Meta-analytic evidence (based on an aggregated study of studies) suggests that the impact of time management on performance is weak at best. So why do it? Because time management is strongly associated with a host of well-being indicators such as stress, job satisfaction, and work-life balance. Time management can help us to remain productive without unnecessary strain.
 
+### Filtering Comes First
+
+Ironically, the most important thing you should do with respect to time management has nothing to do with managing your time. No matter how amazing your time management system or how disciplined you are, if you let too many things in on the front end, you'll never have enough time to get everything done on the back end. That's why the most important thing you can do is filter out what you will not put on your task list or calendar.
+
+- Ask For Details. Never commit to a task, project, or partnership outright. How much time will it take? Is there a firm end data or deliverable or is this an ongoing ordeal? Thinking through these questions will ensure that this a worthwhile investment of your time.
+- Say No. Evaluate whether initiatives align with your goals. If you're not sure, make a calendar item for a later date to re-evaluate. If the task or event involves others, be honest; there's nothing wrong with a professional "no thank you". It's better than a relationship gone sour.
+- Availability. Be transparent with others about how much time you have available and how much time you are willing to commit. Also, try to uncover whether you are aligned on work pace. Do you have the same sense of urgency? How often will you need to check in?
+
+### Stay Inside the System
+
+The majority of time management suggestions revolve around having specific systems in place. Keep in mind that it's not the system that helps, but the habits that the system reinforces.
+
+- Don't Let Anything Fall Through the Cracks. Having a system of tasks and calendar items is fine, but it isn't enough. Anything and everything that enters your mind-ideas, notes, feedback, etc.-needs to go into one system. These miscellaneous items tend to be random and messy. Spend time translating and organizing them so that they can be incorporated into your task list and s hedule.
+- Regularly Scheduled Reconciliations. Once you have a system, the next step is to regularly reconcile everything in your system. Most people do this daily, but it's also helpful to do this weekly, monthly, and annually to make sure you're reprioritizing based on how thigns have developed. When you do, be sure to scrutinize everything. Refresh tasks so that they are more relevant, and don't mindlessly push tasks to a later date.
+
+### Prioritize First, Act Second
+
+We're pretty good at getting things into our system, but we're really bad at prioritizing what's in the system. Although many prioritization schemes are out there, perhaps the most timeless is the urgency-importance framework. This leads to four possible scenarios.
+
+- Not Urgent-Not Important. Don't do it. It's better to delete something off your task list and chip away at something important than to finish an unimportant task.
+- Urgent-Not Important. Try no to do it. Delegate to others or push back against those that are trying to get you to do it. Keep in mind that although it might not be important to you it might be important tothem, so tread lightly.
+- Urgent-Important. Do it now. The key is to make sure that it is indeed important.
+- Not Urgent-Important. Make tiem to do it. More often than not, these are deep-thinking tasks that we never can find the time to tackle. Interestingly, there are also the tasks that are probably in our long-term best interest. Schedule time to make it happen.
+
+### Be Strategic About Being a Manager or a Maker
+
+One way to ensure that you are using your time wisely to pay attention to the differences between being a manager and a maker.
