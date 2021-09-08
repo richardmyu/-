@@ -37,3 +37,12 @@ We're pretty good at getting things into our system, but we're really bad at pri
 ### Be Strategic About Being a Manager or a Maker
 
 One way to ensure that you are using your time wisely to pay attention to the differences between being a manager and a maker.
+
+- Manager. When you are in manager mode:(a) you are talking, problem-solving, and thinking quickly, (b) you are most productive when allocating time in units of 5 to 15 minutes, (c) your ideal state of consciousness is mindfulness (broad, present-moment attention), and (d) the cost of being in meeting is low.
+- Maker. When you are in maker mode: (a) you are alone, creating, and thinking slowly, (b) you are most producitve when allocating time in unites of 2 to 4 hours, (c) your ideal state of consciousness is flow (narrow, present-moment attention), and (d) the cost of being in meetings is high.
+- Unavailable. When carving out time to act as a maker, there are several mechanisms for making yourself unavailable. Out of office assistants, turning off text and Slack alerts, putting signs on closed doors, etc. Think strategically, experiment, and communicate with colleagues(or family) to explain why you don't want to be distracted.
+- Be Careful With Online Scheduling Tools. When panning out time to be in manager mode, be strategic in how you set meetings. If time is money, scheduling meetings is a negotiation, and the goal is to win. Instead of giving out your schedule through Calendly, MixMax, or the like, tell other people when you want to meet. This will ensure that you manage your time and energy in ways that allow you to be more productive.
+
+Keep in mind that trying out different systems is fine, but the key is to develop good habits that allow you to stay on top of things over the long term. Focus on filtering on the front end, staying inside one system, regularly reprioritizing, and being strategic with your manager and maker time.
+
+Consider talking my free, validated, and theoretically grounded assessment, "How Well Do You Manage Your Time." This 12-question assessment will automatically generate your scores and a comparison to your peers.
